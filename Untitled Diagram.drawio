@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T10:47:34.567Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="eRkO5o-fNk-hh__jpBDf" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T10:50:04.221Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Y0DY9mBJhFFBgEyIfXLU" version="13.7.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="813" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -258,6 +258,18 @@
         </mxCell>
         <mxCell id="gfYy91exCEIch9DOiOkr-87" value="descrição" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="710" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gfYy91exCEIch9DOiOkr-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="gfYy91exCEIch9DOiOkr-90" target="gfYy91exCEIch9DOiOkr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfYy91exCEIch9DOiOkr-90" value="nome" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="310" width="47.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gfYy91exCEIch9DOiOkr-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="gfYy91exCEIch9DOiOkr-91" target="gfYy91exCEIch9DOiOkr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfYy91exCEIch9DOiOkr-91" value="id" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
